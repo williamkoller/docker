@@ -1,7 +1,7 @@
 #!/bin/sh
 
 echo "Docker Easy"
-echo "Created by Felipe Marques <contato@felipemarques.com.br>"
+echo "Created by William Koller <wkoller25@gmail.com>"
 
 source config.sh
 
